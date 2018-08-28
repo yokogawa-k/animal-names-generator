@@ -1,0 +1,6 @@
+animal-names-generator
+!cmd/*
+
+coverage.out
+
+dist/
